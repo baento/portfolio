@@ -1,0 +1,10 @@
+.content-scroll-wrapper {
+    padding-left: 290px;
+    width: 100%;
+    height: calc(100vh - 30px);
+    overflow: scroll;
+}
+
+.content-scroll-frame {
+    overflow: auto;
+}
