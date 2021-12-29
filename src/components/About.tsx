@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCheck, faDownload } from "@fortawesome/free-solid-svg-icons";
-import { faGithub, faGithubSquare, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { Stack } from "react-bootstrap";
 
 import "./About.scss";
@@ -10,7 +10,7 @@ const About = (): JSX.Element => (
   <Stack className="about-bar">
     <div className="about-header">
       <div className="about-avatar">
-        <img src="avatar.png" />
+        <img src="avatar.png" alt="Antoine Balieu" />
       </div>
       <h5 className="name">Antoine Balieu</h5>
       <span>
