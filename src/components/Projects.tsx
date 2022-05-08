@@ -55,6 +55,9 @@ const Projects = (): JSX.Element => (
           À terme, cette API sera le point d'entrée de toutes les applications accédant aux EDT.
           API développée avec Spring Boot, l'outil d'administration est codé en C# .NET.
         </Project>
+        <Project title="CS Indicators">
+          Solution de monitoring et statistiques de projets JIRA.
+        </Project>
       </div>
     </div>
   </div>
