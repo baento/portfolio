@@ -11,7 +11,8 @@ const Timeline = (): JSX.Element => (
           <li data-year="2017" data-text="Bac Scientifique"></li>
           <li data-year="2020" data-text="Licence d'Informatique"></li>
           <li data-year="2022" data-text="Master TNSID"></li>
-          <li data-year="2022" data-text="Stagiaire chez Sopra Steria Group"></li>
+          <li data-year="Mars - Sept. 2022" data-text="Stagiaire chez Sopra Steria"></li>
+          <li data-year="Actuellement" data-text="Software Engineer chez AXA France"></li>
         </ul>
       </div>
     </div>

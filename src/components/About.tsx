@@ -14,9 +14,8 @@ const About = (): JSX.Element => (
       </div>
       <h5 className="name">Antoine Balieu</h5>
       <span>
-        &Eacute;tudiant
-        <br />
-        Master TNSID
+        Software Engineer<br/>
+        AXA France
       </span>
     </div>
     <div className="scroll-frame">
